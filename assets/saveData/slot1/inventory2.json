@@ -1,0 +1,10 @@
+{
+    "sasad" : {
+        "count" : 2,
+        "data" : {
+            "itemRef" : "Weapons",
+            "name" : "Sword",
+            "attack" : 10
+        }
+    }
+}
